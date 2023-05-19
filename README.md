@@ -1,22 +1,21 @@
 portfolio
 
 
-🔭 I am currently studying to become a mobile app developer.
+🔭 I am developer
+ 
+📫 How to reach me: fcurrao@gmail.com.
 
-🌱 I’m currently learning Java.
+🤝 I’m looking for  
 
-📫 How to reach me: imanolvalenzuela03@gmail.com.
+👯 I’m looking  
 
-🤝 I’m looking for help in learning about Accessible Websites.
+   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-👯 I’m looking to collaborate on developing new open-source projects.
 
 
 
 🏆 Goals
-📖 Learn the basics of Java programming language
-🚀 Gain experience in developing frontend applications using React.
-🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
+📖 Learn the bas 
 
 📫 Connect with me
 Gmail: Imanol Valenzuela  Linkedin: Imanol Valenzuela
