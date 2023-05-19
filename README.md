@@ -54,7 +54,7 @@ I’m looking for  change the world
 
 ![Badge en Desarollo](https://img.shields.io/badge/2023-ACONCAGUA%20-red)
 
-![Badge en Desarollo](https://img.shields.io/badge/2022-ANKAR%20-red)
+![Badge en Desarollo](https://img.shields.io/badge/2022-ANKARA%20-red)
 
 ![Badge en Desarollo](https://img.shields.io/badge/2020-EXPOCOMEX%20-red)
 
