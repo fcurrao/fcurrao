@@ -1,8 +1,6 @@
+ 
 
------------------------------------------
------------------------------------------ 
-
-# PERFIL 
+# PERFIL :
 
  
 👨‍💻 I am Federico Currao. I am developer
@@ -12,7 +10,7 @@ Contact me: [GMAIL](fcurrao@gmail.com)  || [LINKEDIN](https://www.linkedin.com/i
  
  
 
-I’m looking for  
+I’m looking for  change the world
 
   
 -----------------------------------------
@@ -28,21 +26,21 @@ I’m looking for
 ![react](https://github.com/fcurrao/fcurrao/assets/68132577/fdf48d18-6c82-430f-9d59-9a3bfeae92ba)
 
 
-### BACK END
+### BACK END:
 ![java](https://github.com/fcurrao/fcurrao/assets/68132577/b63ae34e-4d80-49fc-ab7d-8f3d5605f11d)
 ![node](https://github.com/fcurrao/fcurrao/assets/68132577/aef294cc-79bc-46f5-ba53-721a000e92c5)
 
 
- ### BASE DE DATOS
+ ### DATABASE:
 ![MYSQL](https://github.com/fcurrao/fcurrao/assets/68132577/3185aaef-4534-49e0-87bf-255a563413e6)
 ![mongo](https://github.com/fcurrao/fcurrao/assets/68132577/81386590-93c2-4598-ac9e-a34bf40c89e8)
 
 
- ### MOBILE
+ ### MOBILE:
 ![REACT NAVTIVE](https://github.com/fcurrao/fcurrao/assets/68132577/0983ac97-c623-45da-be93-21354f6d111b)
 ![TS](https://github.com/fcurrao/fcurrao/assets/68132577/0170fb25-e1af-4417-ba3e-4b14356a4a31)
 
- ### HERRAMIENTAS
+ ### TOOLS:
 ![git](https://github.com/fcurrao/fcurrao/assets/68132577/4aec78fb-f470-4cbb-ae0c-c2a2af33bed4)
 ![github](https://github.com/fcurrao/fcurrao/assets/68132577/9e7c1a89-47dc-4cb6-9049-6fecd0e161eb)
 ![intelligent](https://github.com/fcurrao/fcurrao/assets/68132577/9d4bcf95-8706-43bb-af96-3a3527ce07a1)
@@ -56,11 +54,11 @@ I’m looking for
 
 ![Badge en Desarollo](https://img.shields.io/badge/2023-ACONCAGUA%20-red)
 
-![Badge en Desarollo](https://img.shields.io/badge/2022-ankara%20-red)
+![Badge en Desarollo](https://img.shields.io/badge/2022-ANKAR%20-red)
 
-![Badge en Desarollo](https://img.shields.io/badge/2020-expocomex%20-red)
+![Badge en Desarollo](https://img.shields.io/badge/2020-EXPOCOMEX%20-red)
 
-![Badge en Desarollo](https://img.shields.io/badge/2019-freelance%20-red)
+![Badge en Desarollo](https://img.shields.io/badge/2019-FREELANCE%20-red)
  
  
 -----------------------------------------
