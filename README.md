@@ -42,7 +42,7 @@ portfolio
 ![REACT NAVTIVE](https://github.com/fcurrao/fcurrao/assets/68132577/0983ac97-c623-45da-be93-21354f6d111b)
 ![MYSQL](https://github.com/fcurrao/fcurrao/assets/68132577/3185aaef-4534-49e0-87bf-255a563413e6)
 ![TS](https://github.com/fcurrao/fcurrao/assets/68132577/0170fb25-e1af-4417-ba3e-4b14356a4a31)
-![POSTMAN](https://github.com/fcurrao/fcurrao/assets/68132577/77c0bc9d-9690-485e-8486-4e86905c0139)
+ ![POSTMAN](https://github.com/fcurrao/fcurrao/assets/68132577/56e8f059-790b-4015-8481-b461d9f23bf6)
 
 
 
