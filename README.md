@@ -6,7 +6,7 @@
 👨‍💻 I am Federico Currao. I am developer
 
 
-Contact me: [GMAIL](fcurrao@gmail.com)  || [LINKEDIN](https://www.linkedin.com/in/federicocurrao/) 
+Contact me: [GMAIL](mailto:fcurrao@gmail.com)  || [LINKEDIN](https://www.linkedin.com/in/federicocurrao/) 
  
  
 
