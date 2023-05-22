@@ -3,7 +3,7 @@
 # PERFIL :
 
  
-👨‍💻 I am Federico Currao. I am developer
+### 👨‍💻 I am Federico Currao. I am developer
 
 
 Contact me: [GMAIL](mailto:fcurrao@gmail.com)  || [LINKEDIN](https://www.linkedin.com/in/federicocurrao/) 
