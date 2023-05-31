@@ -50,15 +50,15 @@ I’m looking for  change the world
 -----------------------------------------
 
 # ROUTE (EXPERIENCE):
-![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-MEGATRANS%20-green)
+[![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-MEGATRANS%20-green)](https://www.megatrans.com.ar/)
 
-![Badge en Desarollo](https://img.shields.io/badge/2023-ACONCAGUA%20-red)
+[![Badge en Desarollo](https://img.shields.io/badge/2023-ACONCAGUA%20-red)](https://aconcaguasf.com/)
 
-![Badge en Desarollo](https://img.shields.io/badge/2022-ANKARA%20-red)
+[![Badge en Desarollo](https://img.shields.io/badge/2022-ANKARA%20-red)](https://www.ankararealestate.mx/)
 
-![Badge en Desarollo](https://img.shields.io/badge/2020-EXPOCOMEX%20-red)
+[![Badge en Desarollo](https://img.shields.io/badge/2020-EXPOCOMEX%20-red)](https://expocomexsrl.com/)
 
-![Badge en Desarollo](https://img.shields.io/badge/2019-FREELANCE%20-red)
+[![Badge en Desarollo](https://img.shields.io/badge/2019-FREELANCE%20-red)](https://github.com/fcurrao)
  
  
 -----------------------------------------
