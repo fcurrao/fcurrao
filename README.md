@@ -73,9 +73,7 @@ I’m looking for  change the world
 -----------------------------------------
 -----------------------------------------
 
-Other links:
-https://drive.google.com/drive/u/0/folders/1Y4IfwuUQR5nJ69Hh8mAVd6oMRTCSiuJi
-
+# Other Links: 
 
   
   <
