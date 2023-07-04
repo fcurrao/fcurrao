@@ -66,7 +66,22 @@ I’m looking for  change the world
 
 # GOALS: 
 
--
+ 
+[ANKARA](https://www.ankararealestate.mx/)
+
+[COMPONENTES_IMPORTADOS](http://www.componentesimportados.com/)
+
+[BONSAI_ORLANDO](https://bonsaisorlando.web.app/) 
+
+[EXPOCOMEX](http://www.expocomexsrl.com/)
+
+[CYG_TRADE](http://www.cygtrade.com/)
+
+[PORTFOLIO](https://fcurrao.github.io/fcurrao-1/) 
+
+[TOTALPLAY_MEXICO]( https://fcurrao.github.io/totalplay-mexico/)
+ 
+  
 
 -
 
