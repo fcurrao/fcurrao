@@ -1,51 +1,78 @@
- 
-
-# PERFIL :
+<h2 align="center">Hi 👋, I'm Federico Currao  I am developer</h2>
 
  
-### 👨‍💻 I am Federico Currao. I am developer
+-----------------------------------------
+###   Contact me: [GMAIL](mailto:fcurrao@gmail.com)  || [LINKEDIN](https://www.linkedin.com/in/federicocurrao/) 
+  
+- 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/)
+
+- 📄 Know about my experiences ( CV ) [https://drive.google.com/file/d/1ExlARNZXAOe27wSm4OTmBaSoeu_hbBPK/view?usp=drive_link](https://drive.google.com/file/d/1ExlARNZXAOe27wSm4OTmBaSoeu_hbBPK/view?usp=drive_link)
 
 
-Contact me: [GMAIL](mailto:fcurrao@gmail.com)  || [LINKEDIN](https://www.linkedin.com/in/federicocurrao/) 
+-----------------------------------------
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ 
+
+<a href="https://linkedin.com/in/federicocurrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federicocurrao" height="30" width="40" /></a>
+<a href="mailto:fcurrao@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="federicocurrao" height="30" width="40" /></a>
+<a href="https://www.gquedesarrollos.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gque" height="30" width="40" /></a>
+</p>
+
+-----------------------------------------
+-----------------------------------------
+
+# TECHNOLOGY: 
+<p align="left"> 
+
+ 
+### FRONT END
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+ <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
+
+ 
+ ### MOBILE:
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+
+
+ 
+ ### DATABASE:
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ 
+
+  ### BACKEND:
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  
  
+   ### TOOLS / DEVOPS:
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+ 
+  ### DISEÑO:
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
+ 
 
-I’m looking for  change the world
 
   
------------------------------------------
------------------------------------------
-
-# TECHNOLOGY:
-
-### FRONT END
-![html](https://github.com/fcurrao/fcurrao/assets/68132577/411c0f40-65c9-435b-9260-7f89a9cab504)
-![css](https://github.com/fcurrao/fcurrao/assets/68132577/d6cf40a8-99e5-44f3-afbd-538b1be860e7)
-![sass](https://github.com/fcurrao/fcurrao/assets/68132577/639de14b-0761-426e-af2c-390196e1d0df)
-![js](https://github.com/fcurrao/fcurrao/assets/68132577/c4f516e8-2acc-4f70-9b1b-5536aabc35c3)
-![react](https://github.com/fcurrao/fcurrao/assets/68132577/fdf48d18-6c82-430f-9d59-9a3bfeae92ba)
-
-
-### BACK END:
-![java](https://github.com/fcurrao/fcurrao/assets/68132577/b63ae34e-4d80-49fc-ab7d-8f3d5605f11d)
-![node](https://github.com/fcurrao/fcurrao/assets/68132577/aef294cc-79bc-46f5-ba53-721a000e92c5)
-
-
- ### DATABASE:
-![MYSQL](https://github.com/fcurrao/fcurrao/assets/68132577/3185aaef-4534-49e0-87bf-255a563413e6)
-![mongo](https://github.com/fcurrao/fcurrao/assets/68132577/81386590-93c2-4598-ac9e-a34bf40c89e8)
-
-
- ### MOBILE:
-![REACT NAVTIVE](https://github.com/fcurrao/fcurrao/assets/68132577/0983ac97-c623-45da-be93-21354f6d111b)
-![TS](https://github.com/fcurrao/fcurrao/assets/68132577/0170fb25-e1af-4417-ba3e-4b14356a4a31)
-
- ### TOOLS:
-![git](https://github.com/fcurrao/fcurrao/assets/68132577/4aec78fb-f470-4cbb-ae0c-c2a2af33bed4)
-![github](https://github.com/fcurrao/fcurrao/assets/68132577/9e7c1a89-47dc-4cb6-9049-6fecd0e161eb)
-![intelligent](https://github.com/fcurrao/fcurrao/assets/68132577/9d4bcf95-8706-43bb-af96-3a3527ce07a1)
-![vs](https://github.com/fcurrao/fcurrao/assets/68132577/8cd2029a-7e5d-4961-9968-abb207cede3e)
- 
 -----------------------------------------
 -----------------------------------------
 
@@ -83,7 +110,27 @@ I’m looking for  change the world
  
   
 
--
+
+-----------------------------------------
+-----------------------------------------
+
+# PERFIL:
+- 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/)
+
+- 🌱 I’m currently learning **applications development**
+
+- 👯 I’m looking to collaborate on [Gque Desarrollos](www.GqueDesarrollos.com)
+
+- 🤝 I’m looking for help to **change the world**
+
+- 👨‍💻 All of my projects are available at [https://fcurrao.github.io/fcurrao-1/](https://fcurrao.github.io/fcurrao-1/)
+
+- 📝 My github [https://github.com/fcurrao](https://github.com/fcurrao)
+
+- 💬 My Linkedin **https://www.linkedin.com/in/federicocurrao/**
+
+- 📫 My Email: **fcurra@gmail.com**
+
 
 -----------------------------------------
 -----------------------------------------
