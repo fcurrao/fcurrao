@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Federico Currao  I am developer</h2>
+<h1 align="center">Hi 👋, I'm Federico Currao  I am developer</h1>
 
  
 -----------------------------------------
