@@ -87,7 +87,7 @@
 
 [![Badge en Desarollo](https://img.shields.io/badge/2020-EXPOCOMEX%20-red)](https://expocomexsrl.com/)
 
-[![Badge en Desarollo](https://img.shields.io/badge/2019-FREELANCE%20-red)](https://github.com/fcurrao)
+[![Badge en Desarollo](https://img.shields.io/badge/2018-FREELANCE%20-red)](https://github.com/fcurrao)
  
  
 -----------------------------------------
