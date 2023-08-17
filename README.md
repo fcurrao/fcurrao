@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm Federico Currao  I am developer</h1>
+#  <h1 align="center">Hi 👋, I'm Federico Currao  I am developer</h1>
 
- 
------------------------------------------
-###   Contact me: [GMAIL](mailto:fcurrao@gmail.com)  || [LINKEDIN](https://www.linkedin.com/in/federicocurrao/) 
+
+ ### About me:
   
 - 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/)
 
 - 📄 Know about my experiences ( CV ) [https://drive.google.com/file/d/1ExlARNZXAOe27wSm4OTmBaSoeu_hbBPK/view?usp=drive_link](https://drive.google.com/file/d/1ExlARNZXAOe27wSm4OTmBaSoeu_hbBPK/view?usp=drive_link)
 
-
 -----------------------------------------
-<h3 align="left">Connect with me:</h3>
+#  CONTACT ME:
 <p align="left">
- 
-
-<a href="https://linkedin.com/in/federicocurrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federicocurrao" height="30" width="40" /></a>
-<a href="mailto:fcurrao@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="federicocurrao" height="30" width="40" /></a>
+&nbsp;&nbsp;  <a href="https://linkedin.com/in/federicocurrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federicocurrao" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="mailto:fcurrao@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="federicocurrao" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.gquedesarrollos.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gque" height="30" width="40" /></a>
 </p>
 
------------------------------------------
+ [LINKEDIN](https://www.linkedin.com/in/federicocurrao/) ||  [GMAIL](mailto:fcurrao@gmail.com)  ||   &nbsp;   [GQUE](https://www.gquedesarrollos.com)
+ 
+
 -----------------------------------------
 
 # TECHNOLOGY: 
@@ -76,7 +74,7 @@
 
   
 -----------------------------------------
------------------------------------------
+
 
 # ROUTE (EXPERIENCE):
 [![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-MEGATRANS%20-green)](https://www.megatrans.com.ar/)
@@ -90,7 +88,6 @@
 [![Badge en Desarollo](https://img.shields.io/badge/2018-FREELANCE%20-red)](https://github.com/fcurrao)
  
  
------------------------------------------
 -----------------------------------------
 
 # GOALS: ⭐⭐⭐⭐⭐
@@ -112,7 +109,7 @@
 
 
 -----------------------------------------
------------------------------------------
+
 
 # PERFIL:
 - 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/)
@@ -133,9 +130,9 @@
 
 
 -----------------------------------------
------------------------------------------
 
-# Other Links: 
+
+# OTHER LINKS: 
 
   
   <
