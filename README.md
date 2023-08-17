@@ -93,24 +93,22 @@
 -----------------------------------------
 -----------------------------------------
 
-# GOALS: 
+# GOALS: ⭐⭐⭐⭐⭐
 
  
-[ANKARA](https://www.ankararealestate.mx/)
+[![Badge en Desarollo](https://img.shields.io/badge/⭐⭐⭐-ANKARA-yellow)](https://www.ankararealestate.mx/) <br>
 
-[COMPONENTES_IMPORTADOS](http://www.componentesimportados.com/)
+[![Badge en Desarollo](https://img.shields.io/badge/🚂-COMPONENTES_IMPORTADOS-yellow)](http://www.componentesimportados.com/) <br>
 
-[BONSAI_ORLANDO](https://bonsaisorlando.web.app/) 
+[![Badge en Desarollo](https://img.shields.io/badge/⭐-BONSAI_ORLANDO-yellow)](https://bonsaisorlando.web.app/)  <br>
 
-[EXPOCOMEX](http://www.expocomexsrl.com/)
+[![Badge en Desarollo](https://img.shields.io/badge/🚚-EXPOCOMEX-yellow)](http://www.expocomexsrl.com/) <br>
 
-[CYG_TRADE](http://www.cygtrade.com/)
+[![Badge en Desarollo](https://img.shields.io/badge/🌎-CYG_TRADE-yellow)](http://www.cygtrade.com/) <br>
 
-[PORTFOLIO](https://fcurrao.github.io/fcurrao-1/) 
+[![Badge en Desarollo](https://img.shields.io/badge/🙋🏻‍♂️-PORTFOLIO-yellow)](https://fcurrao.github.io/fcurrao-1/) <br>
 
-[TOTALPLAY_MEXICO]( https://fcurrao.github.io/totalplay-mexico/)
- 
-  
+[![Badge en Desarollo](https://img.shields.io/badge/✔✔-TOTALPLAY_MEXICO-yellow)](https://fcurrao.github.io/totalplay-mexico/)  <br>
 
 
 -----------------------------------------
