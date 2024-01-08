@@ -117,7 +117,7 @@
 
 
 # PERFIL:
-- 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/)
+- 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/) and I am a teacher and tutor in React JS on  [CoderHouse](https://www.coderhouse.com) 
 
 - 🌱 I’m currently learning **applications development**
 
