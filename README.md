@@ -77,6 +77,9 @@
 
 
 # ROUTE (EXPERIENCE):
+
+[![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-CODERHOUSE%20-green)](https://www.coderhouse.com)
+
 [![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-MEGATRANS%20-green)](https://www.megatrans.com.ar/)
 
 [![Badge en Desarollo](https://img.shields.io/badge/2023-ACONCAGUA%20-red)](https://aconcaguasf.com/)
