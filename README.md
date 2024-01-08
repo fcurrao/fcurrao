@@ -3,7 +3,7 @@
 
  ### About me:
   
-- 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/)
+- 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/) and I am a teacher and tutor in React JS on  [CoderHouse](https://www.coderhouse.com.ar/) 
 
 - 📄 Know about my experiences ( CV ): [Mi_Curriculum_Vitae](https://drive.google.com/file/d/1i4Nu93ckdcqhOzR2OPqAyEXKjd8Y0D4a/view?usp=sharing)
 
