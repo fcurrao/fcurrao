@@ -84,7 +84,7 @@
 
 [![Badge en Desarollo](https://img.shields.io/badge/2023-ACONCAGUA%20-red)](https://aconcaguasf.com/)
 
-[![Badge en Desarollo](https://img.shields.io/badge/2022-ANKARA%20-red)](https://www.ankararealestate.mx/)
+[![Badge en Desarollo](https://img.shields.io/badge/2022-ANKARA%20-red)](https://ankaramexico-2022.netlify.app/)
 
 [![Badge en Desarollo](https://img.shields.io/badge/2020-EXPOCOMEX%20-red)](https://expocomexsrl.com/)
 
@@ -96,7 +96,7 @@
 # GOALS: ⭐⭐⭐⭐⭐
 
  
-[![Badge en Desarollo](https://img.shields.io/badge/⭐⭐⭐-ANKARA-yellow)](https://www.ankararealestate.mx/) <br>
+[![Badge en Desarollo](https://img.shields.io/badge/⭐⭐⭐-ANKARA-yellow)](https://ankaramexico-2022.netlify.app/) <br>
 
 [![Badge en Desarollo](https://img.shields.io/badge/🚗__📲-WHERE_IS_MY_CAR-yellow)](https://www.linkedin.com/feed/update/urn:li:activity:7114707801091825665) <br>
 
