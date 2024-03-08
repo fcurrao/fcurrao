@@ -132,6 +132,7 @@
 - 💬 My Linkedin **https://www.linkedin.com/in/federicocurrao/**
 
 - 📫 My Email: **fcurra@gmail.com**
+- 📫 My Email: **fcurrao.tutor@gmail.com**
 
 
 -----------------------------------------
