@@ -15,7 +15,7 @@
 <a href="https://www.gquedesarrollos.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gque" height="30" width="40" /></a>
 </p>
 
- [LINKEDIN](https://www.linkedin.com/in/federicocurrao/) ||  [GMAIL](mailto:fcurrao@gmail.com)  ||   &nbsp;   [GQUE](https://www.gquedesarrollos.com)
+ [LINKEDIN](https://www.linkedin.com/in/federicocurrao/) ||  [GMAIL](mailto:fcurrao@gmail.com)  ||   &nbsp;   [GQUE](https://www.gquedesarrollos.com) ||  &nbsp; 🙍‍♂️ [PERFIL](https://fcurrao.github.io/fcurrao-1/)  
  
 
 -----------------------------------------
