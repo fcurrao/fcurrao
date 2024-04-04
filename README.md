@@ -15,15 +15,13 @@
 
 
 
-
-
-
 -----------------------------------------
 #  CONTACT ME:
 <p align="left">
 &nbsp;&nbsp;  <a href="https://linkedin.com/in/federicocurrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="federicocurrao" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="mailto:fcurrao@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="federicocurrao" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.gquedesarrollos.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gque" height="30" width="40" /></a>
+<a href="https://fcurrao.github.io/fcurrao-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fcurrao" height="30" width="40" /></a>
+<a href="https://www.gquedesarrollos.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="gque" height="30" width="60" /></a>
 </p>
 
 
