@@ -1,4 +1,4 @@
-#  <h1 align="center">Hi 👋, I'm Federico Currao  I am developer</h1>
+#  <h1 align="center">Hi 👋, I'm Federico Currao  I am Fullstack Developer</h1>
 
 
 # ABOUT ME:
