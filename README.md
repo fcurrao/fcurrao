@@ -1,22 +1,31 @@
 #  <h1 align="center">Hi 👋, I'm Federico Currao  I am developer</h1>
 
 
- ### About me:
+# ABOUT ME:
   
 - 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/) and I am a teacher and tutor in React JS on  [CoderHouse](https://www.coderhouse.com) 
 
 - 📄 Know about my experiences ( CV ): [Mi_Curriculum_Vitae](https://drive.google.com/file/d/1i4Nu93ckdcqhOzR2OPqAyEXKjd8Y0D4a/view?usp=sharing)
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fcurrao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fcurrao&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+
+
+
+
+
 -----------------------------------------
 #  CONTACT ME:
 <p align="left">
-&nbsp;&nbsp;  <a href="https://linkedin.com/in/federicocurrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federicocurrao" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;&nbsp;  <a href="https://linkedin.com/in/federicocurrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="federicocurrao" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="mailto:fcurrao@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="federicocurrao" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.gquedesarrollos.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gque" height="30" width="40" /></a>
 </p>
 
- [LINKEDIN](https://www.linkedin.com/in/federicocurrao/) ||  [GMAIL](mailto:fcurrao@gmail.com)  ||   &nbsp;   [GQUE](https://www.gquedesarrollos.com) ||  &nbsp; 🙍‍♂️ [PERFIL](https://fcurrao.github.io/fcurrao-1/)  
- 
 
 -----------------------------------------
 
@@ -25,6 +34,12 @@
 
  
 ### FRONT END
+
+<div align="left" >
+
+
+
+  
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="next" width="40" height="40"/> </a> 
@@ -74,6 +89,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 
   
+</div>
 -----------------------------------------
 
 
@@ -141,5 +157,9 @@
 
 # OTHER LINKS: 
 
-  
+
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/fcurrao/count.svg?"  />
+</div>
+
   <
