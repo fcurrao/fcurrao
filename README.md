@@ -178,6 +178,10 @@
 # OTHER LINKS: 
 
 
+-----------------------------------------
+
+# VISITS: 
+
   <div align="center">
   <img src="https://profile-counter.glitch.me/fcurrao/count.svg?"  />
 </div>
