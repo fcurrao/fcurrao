@@ -125,7 +125,7 @@
 
 [![Badge en Desarollo](https://img.shields.io/badge/2022-ANKARA%20-red)](https://ankaramexico-2022.netlify.app/)
 
-[![Badge en Desarollo](https://img.shields.io/badge/2020-EXPOCOMEX%20-red)](https://expocomexsrl.com/)
+[![Badge en Desarollo](https://img.shields.io/badge/2019-EXPOCOMEX%20-red)](https://expocomexsrl.com/)
 
 [![Badge en Desarollo](https://img.shields.io/badge/2018-FREELANCE%20-red)](https://github.com/fcurrao)
  
