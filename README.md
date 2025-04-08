@@ -3,7 +3,7 @@
 
 # ABOUT ME:
   
-- 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/) and I am a teacher and tutor in React JS on  [CoderHouse](https://www.coderhouse.com) 
+- 🔭 I’m currently working on  [Eldar](https://eldars.com.ar/)  and I am a teacher and tutor in React JS on  [CoderHouse](https://www.coderhouse.com) 
 
 - 📄 Know about my experiences ( CV ): [Mi_Curriculum_Vitae](https://drive.google.com/file/d/1KhRzp-uhm2sVKOUooLaCzq-kv6g9vFyg/view)
 
@@ -115,9 +115,11 @@
 
 # ROUTE (EXPERIENCE):
 
-[![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-CODERHOUSE%20-green)](https://www.coderhouse.com)
+[![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-CODERHOUSE%20-green)](https://www.coderhouse.com) 
 
-[![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-MEGATRANS%20-green)](https://www.megatrans.com.ar/)
+[![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-ELDAR%20-green)]([https://www.megatrans.com.ar/](https://eldars.com.ar/))
+
+[![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-MEGATRANS%20-red)](https://www.megatrans.com.ar/)
 
 [![Badge en Desarollo](https://img.shields.io/badge/2023-ACONCAGUA%20-red)](https://aconcaguasf.com/)
 
@@ -154,7 +156,7 @@
 
 
 # PERFIL:
-- 🔭 I’m currently working on [Megatrans](https://www.megatrans.com.ar/) and I am a teacher and tutor in React JS on  [CoderHouse](https://www.coderhouse.com) 
+- 🔭 I’m currently working on   [Eldar](https://eldars.com.ar/)    and I am a teacher and tutor in React JS on  [CoderHouse](https://www.coderhouse.com) 
 
 - 🌱 I’m currently learning **applications development**
 
