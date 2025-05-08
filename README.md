@@ -170,6 +170,8 @@
 
 - 💬 My Linkedin **https://www.linkedin.com/in/federicocurrao/**
 
+- 📄 My CV:  [Mi_Curriculum_Vitae](https://drive.google.com/file/d/1KhRzp-uhm2sVKOUooLaCzq-kv6g9vFyg/view)
+
 - 📫 My Email: **fcurra@gmail.com**
 - 📫 My Email: **fcurrao.tutor@gmail.com**
 
