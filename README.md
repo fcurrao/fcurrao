@@ -7,10 +7,16 @@
 
 - 📄 Know about my experiences ( CV ): [Mi_Curriculum_Vitae](https://drive.google.com/file/d/1KhRzp-uhm2sVKOUooLaCzq-kv6g9vFyg/view?usp=sharing)
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fcurrao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=fcurrao&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <br/>
+ <div align="center" >
+   <img src="https://www.worldometers.info/img/flags/sp-flag.gif" height="35" alt="streak graph"  />
+   <img src="https://www.worldometers.info/img/flags/us-flag.gif" height="35" alt="streak graph"  />
+   <img src="https://www.worldometers.info/img/flags/uk-flag.gif" height="35" alt="streak graph"  />
+</div>
+ <br/>
+  
+<div align="center" >
+   <img src="https://streak-stats.demolab.com?user=fcurrao&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
@@ -180,19 +186,21 @@
 - 📫 My Email: **fcurra@gmail.com**
 - 📫 My Email: **fcurrao.tutor@gmail.com**
 
+ <br/>
+ <div align="center" >
+   <img src="https://www.worldometers.info/img/flags/sp-flag.gif" height="35" alt="streak graph"  />
+   <img src="https://www.worldometers.info/img/flags/us-flag.gif" height="35" alt="streak graph"  />
+   <img src="https://www.worldometers.info/img/flags/uk-flag.gif" height="35" alt="streak graph"  />
+</div>
+ <br/> 
 
------------------------------------------
-
+---
 
 # OTHER LINKS: 
 
 
------------------------------------------
-
-# VISITS: 
-
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/fcurrao/count.svg?"  />
-</div>
+---
+ 
+ 
 
   <
