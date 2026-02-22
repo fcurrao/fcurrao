@@ -3,9 +3,9 @@
 
 # ABOUT ME:
   
-- 🔭 I’m currently working on  [Eldar](https://eldars.com.ar/)  and I am a teacher and tutor in React JS on  [CoderHouse](https://www.coderhouse.com) 
+- 🔭 I’m currently working on  [Exomindset](https://exomindset.co/es/)  on the [Agrovortic](https://agrovortic.com/) project  and I am a teacher and tutor on  [CoderHouse](https://www.coderhouse.com) 
 
-- 📄 Know about my experiences ( CV ): [Mi_Curriculum_Vitae](https://drive.google.com/file/d/1KhRzp-uhm2sVKOUooLaCzq-kv6g9vFyg/view)
+- 📄 Know about my experiences ( CV ): [Mi_Curriculum_Vitae](https://drive.google.com/file/d/1KhRzp-uhm2sVKOUooLaCzq-kv6g9vFyg/view?usp=sharing)
 
 
 <div align="center">
@@ -38,9 +38,11 @@
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/astro%20-%23DD0031.svg?&style=for-the-badge&logo=astro&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwinds%20-%23563D7C.svg?&style=for-the-badge&logo=tailwinds&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
@@ -70,12 +72,12 @@
 
   ### BACKEND:
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&logo=nodejs&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&logo=express&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/graphql%20-%23404d59.svg?&logo=graphql&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/drizzle%20-%23404d59.svg?&logo=drizzle&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
@@ -88,6 +90,7 @@
 
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkins-%23121011.svg?style=for-the-badge&logo=jenkins"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
@@ -115,9 +118,11 @@
 
 # ROUTE (EXPERIENCE):
 
+[![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-EXOMINDSET%20-green)](https://exomindset.co/es/) 
+
 [![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-CODERHOUSE%20-green)](https://www.coderhouse.com) 
 
-[![Badge en Desarollo](https://img.shields.io/badge/CURRENTLY-ELDAR%20-green)]([https://www.megatrans.com.ar/](https://eldars.com.ar/))
+[![Badge en Desarollo](https://img.shields.io/badge/2025-ELDARS%20-red)](https://eldars.com.ar/)
 
 [![Badge en Desarollo](https://img.shields.io/badge/2024-MEGATRANS%20-red)](https://www.megatrans.com.ar/)
 
@@ -156,7 +161,7 @@
 
 
 # PERFIL:
-- 🔭 I’m currently working on   [Eldar](https://eldars.com.ar/)    and I am a teacher and tutor in React JS on  [CoderHouse](https://www.coderhouse.com) 
+- 🔭 I’m currently working on  [Exomindset](https://exomindset.co/es/)  on the [Agrovortic](https://agrovortic.com/) project  and I am a teacher and tutor on  [CoderHouse](https://www.coderhouse.com) 
 
 - 🌱 I’m currently learning **applications development**
 
