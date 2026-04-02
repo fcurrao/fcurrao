@@ -9,6 +9,7 @@
 
  <br/>
  <div align="center" >
+  <img src="https://www.worldometers.info/img/flags/ar-flag.gif" height="35" alt="streak graph"  />
    <img src="https://www.worldometers.info/img/flags/sp-flag.gif" height="35" alt="streak graph"  />
    <img src="https://www.worldometers.info/img/flags/us-flag.gif" height="35" alt="streak graph"  />
    <img src="https://www.worldometers.info/img/flags/uk-flag.gif" height="35" alt="streak graph"  />
